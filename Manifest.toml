@@ -1,0 +1,8 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[VARmodels]]
+git-tree-sha1 = "839329c103349cbd82cf22f26ff5e3b738d9c78d"
+repo-rev = "master"
+repo-url = "https://github.com/Massedev/VARmodels.jl"
+uuid = "0137ea2f-56f3-4786-b5f2-cf3c16de41e1"
+version = "0.1.0"
