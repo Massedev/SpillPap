@@ -1,7 +1,6 @@
 name = "SpillPap"
 uuid = "e4430c3c-8fbe-4f98-9647-ecb6a7b6cb71"
 authors = ["matia "]
-version = "1.5.1"
 
 [deps]
 VARmodels = "0137ea2f-56f3-4786-b5f2-cf3c16de41e1"
